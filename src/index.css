@@ -1,0 +1,28 @@
+body{
+    margin:0;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+input{
+    max-width: 200px;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+}
+
+button{
+    background-color: #0069d9;
+    color:#fff;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+button:hover{
+    background-color: navy;
+}
